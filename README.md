@@ -11,7 +11,7 @@
 - Suppression des balises html
 
 
-**Citation :""
+**Citation :**
 
 ```
 @InProceedings{maas-EtAl:2011:ACL-HLT2011,
