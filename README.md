@@ -1,17 +1,17 @@
 ***Large Movie Review Dataset v1.0 (Partiel)***
 
-**Overview :**
+<ins>**Overview :**</ins>
 - Ce dataset contient des critiques de films avec leur polarité respective (positif, négatif)
 
-**Dataset :**
+<ins>**Dataset :**</ins>
 - 50,000 critiques séparées en 25k exemples d'apprentissage et 25k exemples de test
 
-**Changement par rapport au corpus original :**
+<ins>**Changement par rapport au corpus original :**
 - Suppression de la partie non-supervisée ainsi que les features utilisées.
 - Suppression des balises html
 
 
-**Citation :**
+<ins>**Citation :**</ins>
 
 ```
 @InProceedings{maas-EtAl:2011:ACL-HLT2011,
@@ -27,7 +27,7 @@
 }
 ```
 
-**References**
+<ins>**References**</ins>
 
 Potts, Christopher. 2011. On the negativity of negation. In Nan Li and
 David Lutz, eds., Proceedings of Semantics and Linguistic Theory 20,
